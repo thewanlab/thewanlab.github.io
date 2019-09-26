@@ -11,6 +11,6 @@ We are interested in understanding the mechanisms of how protein post-translatio
 * * *
 
 ![Branching](./pics/Moffitt-pano-exterior-with-bridge-for-print_300_gray-small.png)
-* * *
+
 - Address: 12902 USF Magnolia Drive, Tampa, FL 33612
 - Email: lixin.wan@moffitt.org
