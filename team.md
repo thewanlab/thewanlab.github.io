@@ -25,11 +25,9 @@ title: Team
 
 #### Margaret Little, BS, SPARK student
 > - In the lab: 2016
-* * *
 
 #### Shulong Jiang, MD, Visting Scholar
 > - In the lab: 2016-2017
 
-* * *
 #### Xiu Yin, MS, Visting Scholar
 > - In the lab: 2018-2019
