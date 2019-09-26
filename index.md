@@ -9,4 +9,3 @@ The major focus of the Wan lab is on the mechanisms of how protein post-translat
 * * *
 - Address: 12902 USF Magnolia Drive, Tampa, FL 33612
 - Email: lixin.wan@moffitt.org
-* * *
