@@ -20,7 +20,7 @@ title: Team
 >Join the lab: Feb, 2016
 >Research: the ubiquitin pathway in cancer cells and the tumor microenvironment
 
-###  Alumini
+###  Alumni
 * * *
 #### Margaret Little, BS, SPARK student
 >In the lab: 2016
