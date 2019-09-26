@@ -7,8 +7,8 @@ title: Team
 * * *
 
 #### Lixin Wan, PhD, PI
->PhD: Institute of Biophysics, Chinese Academy of Sciences, Beijing, China
->Postdoc: Beth Israel Deacoiness Medical Center, Harvard Medical School
+> - PhD: Institute of Biophysics, Chinese Academy of Sciences, Beijing, China
+> - Postdoc: Beth Israel Deacoiness Medical Center, Harvard Medical School
 
 #### Tao Han, PhD, Postdoc
 >PhD: Wuhan University, Wuhan, China
