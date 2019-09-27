@@ -32,5 +32,5 @@ title: Publications
 
 - Fukushima H\*, Ogura K\*, Wan L\*, Lu Y, Li V, Gao D, Liu P, Lau AW, Wu T, Kirschner MW, Inuzuka H\*, Wei W\*. **SCF-mediated Cdh1 degradation defines a negative feedback system that coordinates cell-cycle progression**. _Cell Reports_. 2013 Aug 29;4(4):803-16. 2013 Aug 22. PubMed PMID: 23972993; PubMed Central PMCID: PMC3839583. [doi: 10.1016/j.celrep.2013.07.031](https://doi.org/10.1016/j.celrep.2013.07.031).
 
-- Wan L\*, Zou W\*, Gao D, Inuzuka H, Fukushima H, Berg AH, Drapp R, Shaik S, Hu D, Lester C, Eguren M, Malumbres M, Glimcher LH, Wei W. **Cdh1 regulates osteoblast function through an APC/C-independent modulation of Smurf1**. _Molecular Cell_. 2011;44(5):721-33. Epub 2011/12/14. PubMed PMID: 22152476; PubMed Central PMCID: PMC3240853. [doi: 10.1038/s41467-019-09844-0](https://doi.org/10.1038/s41467-019-09844-0).
+- Wan L\*, Zou W\*, Gao D, Inuzuka H, Fukushima H, Berg AH, Drapp R, Shaik S, Hu D, Lester C, Eguren M, Malumbres M, Glimcher LH\*, Wei W\*. **Cdh1 regulates osteoblast function through an APC/C-independent modulation of Smurf1**. _Molecular Cell_. 2011;44(5):721-33. Epub 2011/12/14. PubMed PMID: 22152476; PubMed Central PMCID: PMC3240853. [doi: 10.1038/s41467-019-09844-0](https://doi.org/10.1038/s41467-019-09844-0).
 
