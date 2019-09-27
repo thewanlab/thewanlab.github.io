@@ -5,7 +5,7 @@ title: Publications
 
 ###  Selected publications
 * * *
-[Full publication at NCBI](https://www.ncbi.nlm.nih.gov/myncbi/14oug0lc3t/bibliography/public/).
+[Full publication list at NCBI](https://www.ncbi.nlm.nih.gov/myncbi/14oug0lc3t/bibliography/public/).
 
 #### 2016-
 - Han T\*, Jiang S\*, Zheng H, Yin Q, Xie M, Little MR, Yin X, Chen M, Song SJ, Beg AA, Pandolfi PP, Wan L. **Interplay between c-Src and the APC/C co-activator Cdh1 regulates mammary tumorigenesis**. _Nature Communications_. 2019 Aug 16;10(1):3716. PubMed PMID: 31420536; PubMed Central PMCID: PMC6697746. [doi: 10.1038/s41467-019-11618-7](https://doi.org/10.1038/s41467-019-11618-7).
@@ -16,8 +16,11 @@ title: Publications
 
 - Wan L\*, Chen M\*, Cao J\*, Dai X, Yin Q, Zhang J, Song SJ, Lu Y, Liu J, Inuzuka H, Katon JM, Berry K, Fung J, Ng C, Liu P, Song MS, Xue L, Bronson RT, Kirschner MW, Cui R, Pandolfi PP, Wei W. **The APC/C E3 Ligase Complex Activator FZR1 Restricts BRAF Oncogenic Function**. _Cancer Discovery_. 2017 Apr;7(4):424-441. PubMed PMID: 28174173; PubMed Central PMCID: PMC5380472. [doi: 10.1158/2159-8290.CD-16-0647](https://doi.org/10.1158/2159-8290.CD-16-0647).
 
+- Liu J\*, Wan L\*, Liu J, Yuan Z, Zhang J, Guo J, Malumbres M, Liu J, Zou W, Wei W. **Cdh1 inhibits WWP2-mediated ubiquitination of PTEN to suppress tumorigenesis in an APC-independent manner**. _Cell Discovery_. 2016;2:15044. PubMed PMID: 27462441; PubMed Central PMCID: PMC4860961. [doi: 10.1038/celldisc.2015.44](https://doi.org/10.1038/celldisc.2015.44).
+
 #### 2011-2015
+
+- Cao J\*, Dai X\*, Wan L\*, Wang H, Zhang J, Goff PS, Sviderskaya EV, Xuan Z, Xu Z, Xu X, Hinds P, Flaherty KT, Faller DV, Goding CR, Wang Y, Wei W, Cui R. **The E3 ligase APC/C(Cdh1) promotes ubiquitylation-mediated proteolysis of PAX3 to suppress melanocyte proliferation and melanoma growth**. _Science Signaling_. 2015 Sep 1;8(392):ra87. PubMed PMID: 26329581. [doi: 10.1038/celldisc.2015.44](https://doi.org/10.1038/celldisc.2015.44).
 
 - Wan L\*, Zou W\*, Gao D, Inuzuka H, Fukushima H, Berg AH, Drapp R, Shaik S, Hu D, Lester C, Eguren M, Malumbres M, Glimcher LH, Wei W. **Cdh1 regulates osteoblast function through an APC/C-independent modulation of Smurf1**. _Molecular Cell_. 2011;44(5):721-33. Epub 2011/12/14. PubMed PMID: 22152476; PubMed Central PMCID: PMC3240853. [doi: 10.1038/s41467-019-09844-0](https://doi.org/10.1038/s41467-019-09844-0).
 
-- Cao J\*, Dai X\*, Wan L\*, Wang H, Zhang J, Goff PS, Sviderskaya EV, Xuan Z, Xu Z, Xu X, Hinds P, Flaherty KT, Faller DV, Goding CR, Wang Y, Wei W, Cui R. The E3 ligase APC/C(Cdh1) promotes ubiquitylation-mediated proteolysis of PAX3 to suppress melanocyte proliferation and melanoma growth. Science Signaling. 2015 Sep 1;8(392):ra87. PubMed PMID: 26329581.
