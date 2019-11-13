@@ -15,7 +15,7 @@ We are interested in understanding the mechanisms of how protein post-translatio
 We are looking for self-motivated, creative and independent young scientists to join our research team. Interested individual please send a personal statement of scientific interests and goals, current CV with recent publications, and contact information for three references to Dr. Lixin Wan (Lixin.Wan@moffitt.org).
 
 #### Graduate Students
-Graduate students enrolled in Cancer Biology Ph.D. programs interested in rotating in our lab please contact Dr. Lixin Wan (Lixin.Wan@moffitt.org).
+Graduate students enrolled in Cancer Biology Ph.D. program interested in rotating in our lab please contact Dr. Lixin Wan (Lixin.Wan@moffitt.org).
 
 ![Branching](./pics/Moffitt-pano-exterior-with-bridge-for-print_300_gray-small.png)
 
