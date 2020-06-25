@@ -13,10 +13,10 @@ We are interested in understanding the mechanisms of how protein post-translatio
 ###  We are recruiting...
 
 #### Postdoctoral Fellows
-We are looking for self-motivated, creative and independent young scientists to join our research team. Interested individual please send a personal statement of scientific interests and goals, current CV with recent publications, and contact information for three references to Dr. Lixin Wan (Lixin.Wan@moffitt.org). More information about this position please visit: https://pm.healthcaresource.com/cs/moffitt#/job/22868
+We are looking for self-motivated, creative and independent young scientists to join our research team. Interested individual please send a personal statement of scientific interests and goals, current CV with recent publications, and contact information for three references to Dr. Lixin Wan (Lixin.Wan@moffitt.org). More information about this position please visit: [https://pm.healthcaresource.com/cs/moffitt#/job/22868](https://pm.healthcaresource.com/cs/moffitt#/job/22868).
 
 #### Research Associate
-We are looking for self-motivated individuals with previous experience in cell bioloby, mouse handling, and molecular cloning to join our team. More information about this position please visit: https://pm.healthcaresource.com/cs/moffitt#/job/25701
+We are looking for self-motivated individuals with previous experience in cell bioloby, mouse handling, and molecular cloning to join our team. More information about this position please visit: [https://pm.healthcaresource.com/cs/moffitt#/job/25701](https://pm.healthcaresource.com/cs/moffitt#/job/25701).
 
 #### Graduate Students
 Graduate students enrolled in Cancer Biology Ph.D. program interested in rotating in our lab please contact Dr. Lixin Wan (Lixin.Wan@moffitt.org).
