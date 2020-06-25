@@ -11,15 +11,12 @@ title: Team
 >- Postdoc: Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA
 >- Assistant Member: Moffitt Cancer Center, Tampa, FL
 
-#### Tao Han, PhD, Postdoc
->- PhD: Wuhan University, Wuhan, China
->- Join the lab: Feb, 2016
->- Research: the Anaphase Promoting Complex in cancer
-
 #### Qing Yin, PhD, Postdoc
 >- PhD: China Agricultural University, Beijing, China
 >- Join the lab: Feb, 2016
 >- Research: the ubiquitin pathway in cancer cells and the tumor microenvironment
+
+#### Shilin Sun, USF Master Student
 
 ###  Alumni
 * * *
@@ -32,3 +29,7 @@ title: Team
 
 #### Xiu Yin, MS, Visting Scholar
 >- In the lab: 2018-2019
+
+#### Tao Han, PhD, Postdoc
+>- PhD: Wuhan University, Wuhan, China
+>- In the lab: 2016-2020
