@@ -6,17 +6,18 @@ title: Team
 ###  Current Member
 * * *
 
-#### Lixin Wan, PhD, PI
->- PhD: Institute of Biophysics, Chinese Academy of Sciences, Beijing, China
+#### Lixin Wan, Ph.D., PI
+>- Ph.D.: Institute of Biophysics, Chinese Academy of Sciences, Beijing, China
 >- Postdoc: Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA
 >- Assistant Member: Moffitt Cancer Center, Tampa, FL
 
-#### Qing Yin, PhD, Postdoc
->- PhD: China Agricultural University, Beijing, China
+#### Qing Yin, Ph.D., Postdoc
+>- Ph.D.: China Agricultural University, Beijing, China
 >- Join the lab: Feb, 2016
 >- Research: the ubiquitin pathway in cancer cells and the tumor microenvironment
 
 #### Shilin Sun, USF Master Student
+>- Join the lab: Feb, 2020
 
 ###  Alumni
 * * *
